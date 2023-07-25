@@ -1,0 +1,16 @@
+nav>ul>li{
+    display:inline;
+    margin-right: 15px;
+    
+}
+nav{
+    width:1400px;
+    height:90px;
+    background-color: rgb(196, 115, 149);
+    color:rgb(50, 185, 185);
+    text-align:center;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+h3{
+    color:rgb(128, 0, 0);
+    font-size: 20px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.second{
+    /*display: none;*/
+  /*  visibility: hidden;*/
+}
+.blog{
+    margin: 25px;
+    border: 15px;
+    box-shadow: 10px 10px 10px blue
+    ;
+}
+.suscipit{
+    border:2px solid purple;
+   /* display: block;*/
+   padding: auto;
+}
+.header{ 
+    height:300px;
+    background-color: bisque;
+    background-image: url('flower.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
